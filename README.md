@@ -1,2 +1,2 @@
 # goTour
-Go Exercises
+Archive of my go tour exercises
